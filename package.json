@@ -1,0 +1,14 @@
+{
+  "name": "code-duels",
+  "version": "1.0.0",
+  "private": true,
+  "description": "1v1 competitive code scavenger hunt with live duels, modes, sandboxed validation, Elo, and leaderboard.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
