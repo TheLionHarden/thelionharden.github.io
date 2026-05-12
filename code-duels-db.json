@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "ba576013-8107-44be-af88-078082cdbc34",
+      "key": "richard",
+      "username": "richard",
+      "passwordSalt": "563191a9bf4c6cdb7c29351725a8cc06",
+      "passwordHash": "bbd8c32192f9bbd7570f7e50b92a4eb6ff1987c659b3d7a8a5971ae42e75da48",
+      "elo": 1046,
+      "wins": 14,
+      "losses": 12,
+      "games": 26,
+      "createdAt": 1778182044905
+    },
+    {
+      "id": "94ffd648-fa17-4d39-abb6-b03c13243da9",
+      "key": "tungtungtung",
+      "username": "tungtungtung",
+      "passwordSalt": "851ad7d8a5b2a85564517fc3fb8876d3",
+      "passwordHash": "262fc82270727c03ed0cecfa13c464b353adccd221b8d9f2e2f131008b628cee",
+      "elo": 806,
+      "wins": 0,
+      "losses": 14,
+      "games": 14,
+      "createdAt": 1778185317978
+    }
+  ],
+  "matches": []
+}
